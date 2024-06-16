@@ -1,0 +1,205 @@
+header  {
+	
+	background-image:url("../IMAGE/J.png");
+	background-repeat:repeat;
+}
+
+ul {
+    list-style-type: none;
+    border:solid;
+	border-color:white;
+	
+}
+
+li  {
+
+	text-align: center;
+	display: inline;
+	padding: 63px;
+	text-shadow: 2px 0 0 white, 2px 2px 0 white, 0 2px 0 white, -2px 2px 0 white, -2px 0 0 white, -2px -2px 0 white, 0 -2px 0 white, 2px -2px 0 white;
+	
+	
+}
+
+a{
+	text-decoration: none;
+	color:#F71308;
+	font-size:28px;
+	font-family:fantasy;	
+}
+
+.index:hover{
+	
+	 opacity: .5;
+	
+}
+
+.pic:hover{
+	opacity: .5;
+	
+}
+.equipe:hover{
+	opacity: .5;
+}
+
+
+
+body{
+	background-image:url("../IMAGE/1.jpg");
+}
+
+h1{
+	text-align:center;
+	font-family:fantasy;
+	font-size:63px;
+	text-shadow: 2px 0 0 white, 2px 2px 0 white, 0 2px 0 white, -2px 2px 0 white, -2px 0 0 white, -2px -2px 0 white, 0 -2px 0 white, 2px -2px 0 white;
+}
+h2{
+	font-size:56px;
+	font-family:fantasy;
+}
+.presentation{
+	
+	font-family:fantasy;
+	display:flex;
+	
+}
+
+.directeur{
+	border:solid;
+	margin:2px;
+	padding:2px;
+	text-align:center;
+	background-image:url("../IMAGE/bk.jpg");
+	color:white;
+	text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+}
+
+.boutique{
+	border:solid;
+	margin:10px;
+	padding:10px;
+	text-align:center;
+	background-image:url("../IMAGE/bk.jpg");
+    color:white;
+	text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+}
+
+.contact{
+	
+	border:solid;
+	margin:10px;
+	padding:10px;
+	text-align:center;
+	background-image:url("../IMAGE/bk.jpg");
+	color:white;
+    text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+}
+
+.auteur{
+	position:absolute;
+	top:1690px;
+	width:1800px;
+	border:solid;
+	margin:12px;
+	padding:2px;
+	text-align:center;
+	background-image:url("../IMAGE/bk.jpg");
+	text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+	font-size:32px;
+	color:white;
+
+}
+.auteurimg{
+	border-radius:50%;
+}
+.auteurimg:hover{
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+	transition: transform 1s;
+	
+	
+}
+
+img{
+	margin:10px;
+	
+	
+}
+#scroll_to_top{
+	text-align:center;
+	margin-top:700px;
+}
+.wattsapp{
+	width:35px;
+	border-radius:50%;
+}
+.wattsapp:hover{
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+	transition: transform 1s;
+	width:55px;
+	
+}
+
+
+.insta{
+	width:35px;
+	border-radius:50%;
+}
+
+
+.insta:hover{
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+	transition: transform 1s;
+	width:55px;
+	
+}
+.fb{
+	width:35px;
+	border-radius:50%;
+}
+.fb:hover{
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+	transition: transform 1s;
+	width:55px;
+	
+}
+
+
+.rss{
+	width:35px;
+	border-radius:50%;
+}
+.rss:hover{
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+	transition: transform 1s;
+	width:55px;
+	
+}
+
+.imageboutique{
+	width:450px;
+}
+
+.snap{
+	width:35px;
+	border-radius:50%;
+	
+}
+.snap:hover{
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+	transition: transform 1s;
+	width:55px;
+	
+}
+
+
+#numero{
+	padding-top:550px;
+	font-size:42px;
+}

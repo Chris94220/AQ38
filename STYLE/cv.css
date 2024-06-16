@@ -1,0 +1,200 @@
+header  {
+
+	background-image:url("../IMAGE/bk2.png");
+	background-repeat:repeat;
+	height:150px;
+	width:1900px;
+	box-shadow:10px 5px 5px black;
+    
+    
+}
+h1{ 
+    margin:10px;
+    text-align:left;
+	font-family:fantasy;
+	font-size:63px;
+	text-shadow: 2px 0 0 white, 2px 2px 0 white, 0 2px 0 white, -2px 2px 0 white, -2px 0 0 white, -2px -2px 0 white, 0 -2px 0 white, 2px -2px 0 white;
+}
+
+h2{
+	text-align:center;
+	font-family:fantasy;
+	text-shadow: 2px 0 0 white, 2px 2px 0 white, 0 2px 0 white, -2px 2px 0 white, -2px 0 0 white, -2px -2px 0 white, 0 -2px 0 white, 2px -2px 0 white;
+}
+
+h3{
+	text-align:center;
+	font-family:fantasy;
+	text-shadow: 2px 0 0 white, 2px 2px 0 white, 0 2px 0 white, -2px 2px 0 white, -2px 0 0 white, -2px -2px 0 white, 0 -2px 0 white, 2px -2px 0 white;
+}
+
+
+p{
+	
+	font-family:fantasy;
+	font-size:21px;
+	text-shadow: 2px 0 0 white, 2px 2px 0 white, 0 2px 0 white, -2px 2px 0 white, -2px 0 0 white, -2px -2px 0 white, 0 -2px 0 white, 2px -2px 0 white;
+}
+
+.banniere{
+	
+	position:static;
+	
+	
+}
+
+body{
+  
+  background-image:url("../IMAGE/1.jpg");
+}
+
+ul {
+	
+    list-style-type: none;
+	text-align:center;
+	
+}
+li  {
+    font-size:21px;
+	text-align: center;
+	font-family:fantasy;
+	text-shadow: 2px 0 0 white, 2px 2px 0 white, 0 2px 0 white, -2px 2px 0 white, -2px 0 0 white, -2px -2px 0 white, 0 -2px 0 white, 2px -2px 0 white;
+	
+	
+	
+}
+
+
+.noritaka{
+	position:relative;
+	top:-50px;
+	left:800px;
+	width:9%;
+	border:solid;
+	border-radius:70%;
+	border-color:black;
+	box-shadow:10px 5px 5px black;
+	 
+}
+.logo{
+	position:relative;
+	float:left;
+}
+
+
+
+.quisuisje{
+	position:absolute;
+	width:700px;
+	border:solid;
+	margin:20px;
+	padding:20px;
+	background-image:url("../IMAGE/gris.jpg");
+    border-radius: 10px;
+	box-shadow:10px 5px 5px black;
+}
+
+.contact{
+	position:absolute;
+	left:1000px;
+	width:800px;
+	border:solid;
+	margin:20px;
+	padding:20px;
+	padding-bottom:170px;
+	background-image:url("../IMAGE/gris.jpg");
+	border-radius: 10px;
+	box-shadow:10px 5px 5px black;
+}
+.experience{
+	width:1800px;
+	position:absolute;
+	border:solid;
+	margin:20px;
+	padding:20px;
+	margin-bottom:100px;
+	top:600px;
+	background-image:url("../IMAGE/gris.jpg");
+	border-radius: 10px;
+	box-shadow:10px 5px 5px black;
+}
+
+.formation{
+	position:absolute;
+	border:solid;
+	margin:20px;
+	padding:20px;
+	top:1200px;
+	width:1800px;
+	background-image:url("../IMAGE/gris.jpg");
+	border-radius: 10px;
+	box-shadow:10px 5px 5px black;
+}
+
+.compétence{
+	position:absolute;
+	width:1800px;
+	border:solid;
+	margin:20px;
+	padding:20px;
+	top:1550px;
+	font-size:35px;
+	background-image:url("../IMAGE/gris.jpg");
+	border-radius: 10px;
+	box-shadow:10px 5px 5px black;
+  
+}
+.professionnelles{
+	position:relative;
+	
+
+}
+.personnelles{
+position:relative;
+
+}
+
+
+
+meter{
+	margin-left:100px;
+	width:600px;
+	height:50px;
+	
+}
+
+
+.hobbies
+{
+	position:absolute;
+	width:1800px;
+	border:solid;
+	margin:20px;
+	padding:20px;
+	top:2450px;
+	background-image:url("../IMAGE/gris.jpg");
+	border-radius: 10px;
+	box-shadow:10px 5px 5px black;
+}
+
+.gaming li{
+	
+	display:inline;
+	margin:50px;
+	background-image:url("../IMAGE/gris.jpg");
+	
+}
+.interet img{
+	position:relative;
+	border:solid;
+	position:relative;
+	left:630px;
+	border-radius: 10px;
+	
+	
+	
+}
+img{
+	border:solid;
+	border-radius: 10px;
+}

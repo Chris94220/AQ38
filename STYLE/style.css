@@ -1,0 +1,242 @@
+header  {
+	
+	background-image:url("../IMAGE/J.png");
+	background-repeat:repeat;
+}
+
+
+ul {
+    list-style-type: none;
+    border:solid;
+	border-color:white;
+	
+}
+
+li  {
+
+	text-align: center;
+	display: inline;
+	padding: 63px;
+	text-shadow: 2px 0 0 white, 2px 2px 0 white, 0 2px 0 white, -2px 2px 0 white, -2px 0 0 white, -2px -2px 0 white, 0 -2px 0 white, 2px -2px 0 white;
+	
+	
+	
+}
+
+a{
+	text-decoration: none;
+	color:#F71308;
+	font-size:28px;
+	font-family:fantasy;
+	
+	
+}
+
+
+
+h1{
+	text-align:center;
+	font-family:fantasy;
+	font-size:63px;
+	text-shadow: 2px 0 0 white, 2px 2px 0 white, 0 2px 0 white, -2px 2px 0 white, -2px 0 0 white, -2px -2px 0 white, 0 -2px 0 white, 2px -2px 0 white;
+
+}
+body{
+	background-image:url("../IMAGE/1.jpg");
+	
+}
+
+.art{
+	
+	font-family:fantasy;
+	display:flex;
+	color:white;
+	font-size:21px;
+	
+   
+	
+}
+
+#art1{
+	
+	padding:35px;
+	border:solid;
+	text-align:center;
+	margin:10px;
+	border-radius: 10px;
+	background-image:url("../IMAGE/bk.jpg");
+	text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+	
+	
+}
+
+#art2{
+	
+	padding:35px;
+	border:solid;
+	text-align:center;
+	margin:10px;
+	border-radius: 10px;
+	background-image:url("../IMAGE/bk.jpg");
+	text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+}
+
+#art3{
+	
+	padding:35px;
+	border:solid;
+	text-align:center;
+	margin:10px;
+	border-radius: 10px;
+	background-image:url("../IMAGE/bk.jpg");
+	text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+}
+
+img{
+	margin:10px;
+	
+	
+}
+.réseau{
+	border:solid;
+	text-align:center;
+	background-image:url("../IMAGE/bk2.png");
+	margin-top:320px;	
+	opacity: 0.9;
+	
+}
+.photo{
+	display:flex;
+	height:300px;
+   
+
+}
+
+
+.wall{
+	border-radius: 30px;
+	width: 290px;
+    height: 560px;
+	
+}
+
+.wall:hover{
+	opacity: .5;
+	transform:rotate(-30deg);
+	transition: transform 3s;
+	
+}
+.wall2{
+	border-radius: 30px;
+	width: 290px;
+    height: 560px;
+	
+}
+.wall2:hover{
+	opacity: .5;
+	transform:rotate(30deg);
+	transition: transform 3s;
+	
+}
+
+
+.wall3{
+	border-radius: 30px;
+	width: 290px;
+    height: 560px;
+	
+}
+.wall3:hover{
+	opacity: .5;
+	transform:rotate(-30deg);
+	transition: transform 3s;
+	
+}
+.wall4{
+	border-radius: 30px;
+	width: 290px;
+    height: 560px;
+	
+}
+.wall4:hover{
+	opacity: .5;
+	transform:rotate(30deg);
+	transition: transform 3s;
+	
+}
+
+.insta{
+	width:45px;
+	border-radius:50%;
+}
+.insta:hover{
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+	transition: transform 1s;
+	width:55px;
+	
+}
+.fb{
+	width:45px;
+	border-radius:50%;
+}
+.fb:hover{
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+	transition: transform 1s;
+	width:55px;
+	
+}
+
+.rss{
+	width:45px;
+	border-radius:50%;
+}
+.rss:hover{
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+	transition: transform 1s;
+	width:55px;
+	
+}
+.wattsapp{
+	width:45px;
+	border-radius:50%;
+}
+.wattsapp:hover{
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+	transition: transform 1s;
+	width:55px;
+	
+}
+.snap{
+	width:45px;
+	border-radius:50%;
+}
+.snap:hover{
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+	transition: transform 1s;
+	width:55px;
+	
+}
+
+#scroll_to_top{
+	margin-top:50px;
+	text-align:center;
+	
+}
+.index:hover{
+	
+	 opacity: .5;
+	
+}
+
+.pic:hover{
+	opacity: .5;
+	
+}
+.equipe:hover{
+	opacity: .5;
+}

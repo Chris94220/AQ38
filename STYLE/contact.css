@@ -1,0 +1,41 @@
+.champs{
+	background-image:url("../IMAGE/bk.jpg");
+    border:solid;
+
+
+}
+
+
+p{
+	font-family:fantasy;
+	margin:10px;
+	color:white;
+	text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+}
+form{
+	
+	margin-left:10px;
+	color:white;
+	text-shadow: 2px 0 0 black, 2px 2px 0 black, 0 2px 0 black, -2px 2px 0 black, -2px 0 0 black, -2px -2px 0 black, 0 -2px 0 black, 2px -2px 0 black;
+}
+
+fieldset{
+	margin:10px;
+	font-family:fantasy;
+	text-shadow: 2px 0 0 white, 2px 2px 0 white, 0 2px 0 white, -2px 2px 0 white, -2px 0 0 white, -2px -2px 0 white, 0 -2px 0 white, 2px -2px 0 white;
+}
+
+legend{
+	font-size:56px;
+}
+
+textarea{
+	height:280px;
+	width:700px;
+	font-family:fantasy;
+	font-size:21px;
+}
+:required{
+	background-color:red;
+	
+}
